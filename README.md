@@ -1,4 +1,4 @@
-# Tugas 4 SQL & Sheel Toolings
+# Tugas 4 Pacmann kelas SQL & Sheel Toolings
 ## Username : indra-qcl9
 ### Penjelasan code tugas 4
 1. Download data menggunakan wget
