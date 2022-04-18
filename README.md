@@ -1,7 +1,7 @@
 # Tugas 4 Pacmann kelas SQL & Sheel Toolings
 ## Username : indra-qcl9
 ### Penjelasan code tugas 4
-1. Download data menggunakan wget
+1. Download data with wget
 ```bash
 wget -P ./data https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
 ```
